@@ -46,19 +46,3 @@ button:hover{
 }
 
 
-.personagem{
-    transition: .3s ease-in-out;
-    height: 345px;
-}
-
-.personagem:hover{
-   height: 430px;
-   max-width: auto;
-}
-
-
-@media (max-width:768px){
-    .personagem{
-       height: auto;
-     }
-}
